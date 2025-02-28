@@ -1,6 +1,6 @@
 # linuxlist
 #Automatic list for linux distro for proot-distro 
 #Please open a new tab in termux and type termux-x11 to connect GUI of linux distro and termux-x11 android app
-cd linuxlist
-chmod u+x ./linuxlist.sh
-./linuxlist.sh
+<li>cd linuxlist<li>
+<li>chmod u+x ./linuxlist.sh<li>
+<li>./linuxlist.sh<li>
